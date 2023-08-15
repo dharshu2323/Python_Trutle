@@ -21,7 +21,8 @@ https://github.com/dharshu2323/Python_Trutle/assets/104815447/b199cade-b455-4e9c
 
 🎇To convert the python file(turtle) into execution file follow the below command👇
 
-![Screenshot (180)](https://github.com/dharshu2323/Python_Trutle/assets/104815447/d9a5ac65-eeff-4d4c-aa5d-78b559a3b0d9)
+
+![Screenshot (179)](https://github.com/dharshu2323/Python_Trutle/assets/104815447/48938899-4883-4a88-bd78-b017612f7951)
 
 
 ![Screenshot (180)](https://github.com/dharshu2323/Python_Trutle/assets/104815447/d04de518-019c-4e1e-86d6-d735e0d4a3d8)
